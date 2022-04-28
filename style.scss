@@ -1,0 +1,86 @@
+body {
+  background-color: #f6f8fd;
+}
+
+.navbar {
+  background-color: #fff;
+  border-radius: 10px;
+
+  .navbar-brand {
+    color: #1954ca;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  a {
+    font-size: 16px;
+    color: #05013e;
+  }
+  :hover {
+    color: rgb(165, 42, 155);
+  }
+}
+
+.container h1 {
+  position: absolute;
+  font-family: "Nunito", sans-serif;
+  font-style: normal;
+  font-size: 48px;
+  font-weight: bold;
+  color: #05013e;
+  line-height: 45px;
+
+  left: 141px;
+  top: 240px;
+}
+.container p {
+  position: absolute;
+  width: 312px;
+  height: 57px;
+  left: 141px;
+  top: 405px;
+
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: #05013e;
+}
+
+.btn {
+  position: absolute;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: bold;
+  color: #fff;
+  width: 170px;
+  height: 52px;
+  left: 141px;
+  top: 502px;
+
+  background: #1954ca;
+  border-radius: 5px;
+}
+.btn2 {
+  position: absolute;
+  font-size: 18px;
+  font-style: normal;
+  color: #05013e;
+  width: 170px;
+  height: 52px;
+  left: 361px;
+  top: 502px;
+  padding-right: 50px;
+  background: none;
+  border: 1;
+  border-radius: 5px;
+  border-color: #05013e;
+}
+.profile {
+  position: absolute;
+
+  right: 141px;
+  top: 220px;
+}
+// #5C6FE0; F6F8FD #134ee2
